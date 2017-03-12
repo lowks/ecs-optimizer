@@ -26,6 +26,7 @@ setup(
     namespace_packages = ['optimizer'],
     author="Patrick Cullen and the WaPo platform tools team",
     author_email="opensource@washingtonpost.com",
+    description="Optimizer your ECS cluster",
     url="https://github.com/WPMedia/ecs-optimizer",
     download_url = "https://github.com/WPMedia/ecs-optimizer/tarball/v0.1.0",
     keywords = ['ecs', 'aws', 'optimizer'],
